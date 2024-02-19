@@ -23,7 +23,7 @@ else
 </head>
 <body>
     <section class="congratulations">
-        <h1>TEST FOR ELASTIC BEANSTALK</h1>
+        <h1>TEST FOR  ELASTIC BEANSTALK</h1>
         <p>MY AWS Elastic Beanstalk TEST <em>PHP</em> application is now running on my test web page&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
